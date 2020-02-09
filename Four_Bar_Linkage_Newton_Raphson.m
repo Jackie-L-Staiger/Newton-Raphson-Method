@@ -1,10 +1,10 @@
-%% 4-Bar Linkage: Newton-Raphson Method 
+%% 4-Bar Linkage: Newton-Raphson Method
 % Script designed to find theta_3 and theta_4 of a 4-bar linkage
 
 % Clean up the MATLAB workspace:
 clear all; clc; close all;
 
-%% Initialize: 
+%% Initialize:
 theta_2 = 60;
 r_1 = 0.18;
 r_2 = 0.06;
